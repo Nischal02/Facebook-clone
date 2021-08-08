@@ -1,0 +1,194 @@
+/* styles sheet*/
+body {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    display: flex;
+    background-color: rgb(56, 90, 153);
+    justify-content: space-between;
+    color: white;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+}
+
+#form1 {
+    display: flex;
+
+}
+
+.logo {
+    text-align: center;
+    padding-left: 180px;
+    padding-top: 25px;
+    padding-bottom: 12px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.login {
+    padding-top: 15px;
+    padding-right: 200px;
+}
+
+.name {
+    padding-right: 15px;
+    font-size: 15px;
+}
+
+.pass {
+    padding-right: 10px;
+    font-size: 15px;
+   
+}
+
+.pass a {
+    color: rgb(147, 185, 228);
+    text-decoration: none;
+   
+}
+
+.main {
+    display: flex;
+    background-color: #ebeef3;
+}
+
+.image {
+    padding-left: 100px;
+    padding-top: 70px;
+    width: 410px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.imgMain {
+    width: 410px;
+} 
+
+.signup {
+    padding-left: 200px;
+}
+
+div > h1 {
+    font-size: 35px;
+    margin-bottom: 3px;
+    margin-top: 10px;
+}
+
+.form2 {
+    padding-top: 20px ;
+}
+
+.form2 input[type=text] {
+    padding: 7px;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 200px;
+    height: 20px;
+    margin-right: 5px;
+    margin-bottom: 10px; 
+    border: 1px;
+}
+
+.form2 input[type=email], .form2 input[type=password] {
+    padding: 7px;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 425px;
+    height: 20px; 
+    border: 1px;
+    margin-bottom: 10px;
+}
+.sampletext {
+    color: rgb(79, 99, 144);
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+#birthday {
+    margin-bottom: 700px;
+}
+
+.option {
+    height: 30px;
+    width: 65px;
+    padding: 5px;
+    font-size: 14px;
+    margin-bottom: 20px;
+
+}
+
+.sex {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.gen {
+    padding-left: 3px;
+    padding-right: 10px;
+}
+
+.Policy {
+    font-size: 11px;
+    width: 316px;
+    margin: 11px 0px;
+}
+
+#newID {
+    width: 210px;
+    height: 40px;
+    background: linear-gradient(#00b300,#006600);
+    color: #fff;
+    text-shadow: 2px rgb(0, 128, 90);
+    border-radius: 5px;
+    font-size: 19px;
+    font-weight: bold;
+    border: 1px solid rgb(93, 238, 93);
+    padding: 7px 20px;
+    margin: 10px 0px;
+}
+
+hr {
+    color: gainsboro;
+}
+
+.pageInfo {
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+/*##### Page footer###### */
+
+footer {
+    margin: 70px 100px 20px 200px ;
+}
+
+.pageFooter {
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+    font-size: 12px; 
+    padding-left: 0px;
+}
+
+.link1 {
+    text-decoration: none;
+    padding-right: 15px;
+    color: rgb(36, 83, 172);
+}
+
+.footbot {
+    width: 25px;
+    height: 20px;
+}
+
+
